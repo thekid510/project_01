@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+}
+ul a {
+  text-decoration: none;
+}
+.box {
+  box-model: border-box;
+  border: 5px solid transparent;
+  background-clip: padding-box;
+  margin-bottom: 5px;
+}
